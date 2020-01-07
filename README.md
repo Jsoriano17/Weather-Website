@@ -1,2 +1,2 @@
 # Weather-Website
-boostrap weather website
+bootstrap weather website
